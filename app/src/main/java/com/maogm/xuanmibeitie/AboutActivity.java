@@ -31,7 +31,7 @@ public class AboutActivity extends ActionBarActivity {
                     openUrl("http://maogm.com");
                     break;
                 case R.id.icon_github:
-                    openUrl("https://github.com/Garnel/Flamg");
+                    openUrl("https://github.com/Garnel/xuanmibeitie");
                     break;
                 case R.id.icon_weibo:
                     openUrl("http://weibo.com/740562151");
