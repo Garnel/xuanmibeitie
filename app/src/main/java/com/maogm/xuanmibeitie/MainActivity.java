@@ -1,5 +1,6 @@
 package com.maogm.xuanmibeitie;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -45,6 +46,9 @@ public class MainActivity extends ActionBarActivity {
             case R.id.action_jump:
                 jump();
                 return true;
+            case R.id.action_about:
+                openAbout();
+                return true;
             default:
                 break;
         }
@@ -61,5 +65,10 @@ public class MainActivity extends ActionBarActivity {
         if (fragment != null) {
             fragment.showJumpDialog();
         }
+    }
+
+    private void openAbout() {
+        Intent about = new Intent(this, AboutActivity.class);
+        startActivity(about);
     }
 }
