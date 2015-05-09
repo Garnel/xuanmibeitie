@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">玄秘碑帖</string>
+    <string name="word_image">文字图片</string>
+    <string name="action_exit">退出</string>
+    <string name="missing_setting_file">找不到配置文件</string>
+    <string name="action_jump">跳转</string>
+</resources>

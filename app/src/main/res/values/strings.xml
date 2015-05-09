@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XuanMiBeiTie</string>
+    <string name="action_exit">Exit</string>
+    <string name="word_image">Word Image</string>
+    <string name="missing_setting_file">Setting file is missing</string>
+    <string name="action_jump">Jump</string>
+</resources>

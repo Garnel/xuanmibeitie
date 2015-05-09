@@ -1,0 +1,23 @@
+{
+  "total": 4,
+  "name": "玄秘碑帖",
+  "imageDir": "xuanmibeitie",
+  "images": [
+    {
+      "image": "1.jpg",
+      "word": "唐故左街僧录"
+    },
+    {
+      "image": "2.jpg",
+      "word": "内供奉三教谈"
+    },
+    {
+      "image": "3.jpg",
+      "word": "论引驾大德"
+    },
+    {
+      "image": "4.jpg",
+      "word": "安国寺上座赐"
+    }
+  ]
+}
